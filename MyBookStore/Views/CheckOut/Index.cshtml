@@ -1,0 +1,33 @@
+﻿@using MyBookStore.Models
+@model tblCustomer
+@{
+    ViewBag.Title = "Index";
+}
+
+@* when checkout get user address email address ets some information *@
+
+<div>
+    @using (Html.BeginForm("Index","CheckOut",FormMethod.Post,new { }))
+    {
+        @Html.ValidationSummary(true,"")
+        <div style="margin-bottom:5px;">
+            @Html.TextBoxFor(m => m.Name,new {@placeholder="Enter Name"})
+          
+            @Html.ValidationMessageFor(m=>m.Name)
+        </div>
+        <div style="margin-bottom:5px;">
+            @Html.TextBoxFor(m=>m.Email_Id,new {@placeholder="Enter Email" })
+            @Html.ValidationMessageFor(m => m.Email_Id)
+        </div>
+        <div style="margin-bottom:5px;">
+            @Html.TextBoxFor(m => m.PhoneNo,new {@placeholder="Enter Your Phone Number" })
+            @Html.ValidationMessageFor(m => m.PhoneNo)
+        </div>
+        <div style="margin-bottom:5px;">
+            @Html.TextAreaFor(m => m.Address,new {@placeholder="Enter You Address" })
+            @Html.ValidationMessageFor(m => m.Address)
+        </div>
+       <input type="submit" value="Order Confrim" />
+
+    }
+</div>

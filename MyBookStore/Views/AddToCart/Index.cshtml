@@ -1,0 +1,104 @@
+﻿@using MyBookStore.Controllers
+@{
+    ViewBag.Title = "Index";
+    decimal totalamount = 0.0M;
+
+
+}
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/prettyPhoto.css" rel="stylesheet">
+<link href="css/price-range.css" rel="stylesheet">
+<link href="css/animate.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="images/ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+<section id="cart_items">
+    <div class="container">
+
+        <div class="table-responsive cart_info">
+            <table class="table table-condensed">
+                <thead>
+                    <tr class="cart_menu">
+                        <td class="image">Item</td>
+                        <td class="description"></td>
+                        <td class="price">Price</td>
+                        <td class="quantity">Quantity</td>
+                        <td class="total">Total</td>
+                        <td>Remove</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @* Display cart data  using model binding*@
+                    @foreach (Item item in (List<Item>)(Session["cart"]))
+                    {
+                        <tr>
+                            <td class="cart_product">
+                                <a href=""><img src="@Url.Content(item.Pro.Image)" alt=""></a>
+                            </td>
+                            <td class="cart_description">
+                                <h4><a href="">@item.Pro.Title</a></h4>
+                                @{Session["BookName"] = item.Pro.Title;}
+                                <p>@item.Pro.Author</p>
+                            </td>
+                            <td class="cart_price">
+                                <p>@item.Pro.Price</p>
+                            </td>
+                            <td class="cart_quantity">
+                                <p>@item.Quantity</p>
+                                @{Session["Quantity"] = item.Quantity; }
+                            </td>
+                            @{ Session["BookId"] = item.Pro.Id;}
+                            <td class="cart_total">
+                                <p class="cart_total_price">@(item.Pro.Price * item.Quantity)</p>
+                            </td>
+                            @{ totalamount = item.Pro.Price * item.Quantity;}
+                            <td class="cart_delete">
+                                <a class="cart_quantity_delete" href="">Remove</a>
+                            </td>
+                        </tr>
+                                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section> <!--/#cart_items-->
+<section id="do_action">
+    <div class="container">
+        <div class="heading">
+            <h3>What would you like to do next?</h3>
+            <p>Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.</p>
+        </div>
+        <div class="row">
+
+            <div class="col-sm-6">
+                <div class="total_area">
+                    <ul>
+                        <li>Cart Sub Total <span>@totalamount</span></li>
+                        @{Session["TotalAmount"] = totalamount; }
+                        <li>Shipping Cost <span>Free</span></li>
+                        <li>Total <span>@totalamount</span></li>
+                    </ul>
+                    <div class="buy_now_button"><a href="@Url.Action("Index", "Home", new { })">Continue</a></div>
+                    <div class="buy_now_button"><a href="@Url.Action("Index", "CheckOut", new { })">Check Out</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!--/#do_action-->
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrollUp.min.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/main.js"></script>
+

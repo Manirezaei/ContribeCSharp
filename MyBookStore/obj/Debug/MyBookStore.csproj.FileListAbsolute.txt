@@ -1,0 +1,100 @@
+E:\admin pannal working\MyBookStore\MyBookStore\bin\ApplicationInsights.config
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\csc.exe
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\System.Collections.Immutable.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\vbc.exe
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\VBCSCompiler.exe
+E:\admin pannal working\MyBookStore\MyBookStore\bin\roslyn\VBCSCompiler.exe.config
+E:\admin pannal working\MyBookStore\MyBookStore\bin\MyBookStore.dll.config
+E:\admin pannal working\MyBookStore\MyBookStore\bin\MyBookStore.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\MyBookStore.pdb
+E:\admin pannal working\MyBookStore\MyBookStore\bin\EntityFramework.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\EntityFramework.SqlServer.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.DependencyCollector.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.Web.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.WindowsServer.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.ApplicationInsights.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Helpers.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Mvc.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Razor.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.Deployment.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.Razor.dll
+E:\admin pannal working\MyBookStore\MyBookStore\bin\EntityFramework.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\EntityFramework.SqlServer.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.DependencyCollector.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.Web.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.AI.WindowsServer.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.ApplicationInsights.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Razor.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.Deployment.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Webpages.Razor.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Helpers.xml
+E:\admin pannal working\MyBookStore\MyBookStore\bin\System.Web.Mvc.xml
+E:\admin pannal working\MyBookStore\MyBookStore\obj\Debug\MyBookStore.dll
+E:\admin pannal working\MyBookStore\MyBookStore\obj\Debug\MyBookStore.pdb
+E:\admin pannal working\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csprojResolveAssemblyReference.cache
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\ApplicationInsights.config
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\csc.exe
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\vbc.exe
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\MyBookStore.dll.config
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\MyBookStore.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\MyBookStore.pdb
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\EntityFramework.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.Web.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Helpers.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Mvc.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Razor.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\EntityFramework.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.Web.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Razor.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Helpers.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\bin\System.Web.Mvc.xml
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\obj\Debug\MyBookStore.csprojResolveAssemblyReference.cache
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\obj\Debug\MyBookStore.dll
+C:\Users\manir_000\Documents\GitHub\BookStore\MyBookStore\obj\Debug\MyBookStore.pdb
